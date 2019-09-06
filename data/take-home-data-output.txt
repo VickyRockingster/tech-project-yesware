@@ -1,0 +1,21 @@
+There are 3007 unique first names.
+
+  There are 475 unique last names.
+
+  There are 49157 unique full names.
+
+  The first 25 completely unique names are:
+
+  Graham, Mckenna; Marvin, Garfield; McLaughlin, Mariah; Lang, Agustina; Bradtke, Nikko; Adams, Luis; Lehner, Matilde; Ortiz, Anita; Koch, Berry; Cartwright, Nicolas; Fisher, Elmo; Kunze, Gertrude; Stanton, Davin; O'Conner, Constantin; Runolfsdottir, Roy; Rogahn, Colby; Tromp, Ryley; Hoppe, Stanley; Shanahan, Bethel; Hills, Samanta; McGlynn, Thad; Lynch, Norma; Bahringer, Lennie; Tillman, Madison; Stoltenberg, Donna
+
+  The 25 modified unique names are:
+
+  Graham, Garfield; Marvin, Mariah; McLaughlin, Agustina; Lang, Nikko; Bradtke, Luis; Adams, Matilde; Lehner, Anita; Ortiz, Berry; Koch, Nicolas; Cartwright, Elmo; Fisher, Gertrude; Kunze, Davin; Stanton, Constantin; O'Conner, Roy; Runolfsdottir, Colby; Rogahn, Ryley; Tromp, Stanley; Hoppe, Bethel; Shanahan, Samanta; Hills, Thad; McGlynn, Norma; Lynch, Lennie; Bahringer, Madison; Tillman, Donna; Stoltenberg, Mckenna
+
+  The ten most common last names are:
+
+  Hilll, Hills, Batz, Lang, Romaguera, Becker, Johns, Ortiz, Terry, Barton,
+
+  The ten most common first names are:
+
+  Stephania, Summer, Kaycee, Tara, Ulices, Manley, Kayley, Andreanne, Keon, Dashawn
